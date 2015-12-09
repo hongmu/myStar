@@ -1,203 +1,203 @@
 # IOS
 
-- [List of iOS Top 1000 Libraries](https://github.com/iamdaiyuan/ios_top_1000){:target="_blank"}
-- [Ios 学习](https://github.com/100mango/zen){:target="_blank"}
-- [WWDC](https://github.com/insidegui/WWDC){:target="_blank"}
-- [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS){:target="_blank"}
-- [WWDC-2014-Subtitle](https://github.com/walkingway/WWDC-2014-Subtitle){:target="_blank"}
-- [WWDCDownloader](https://github.com/aglee/WWDCDownloader){:target="_blank"}
+- [List of iOS Top 1000 Libraries](https://github.com/iamdaiyuan/ios_top_1000)
+- [Ios 学习](https://github.com/100mango/zen)
+- [WWDC](https://github.com/insidegui/WWDC)
+- [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS)
+- [WWDC-2014-Subtitle](https://github.com/walkingway/WWDC-2014-Subtitle)
+- [WWDCDownloader](https://github.com/aglee/WWDCDownloader)
 
 ## Swift
 
-- [SwiftGuide Swift语言主流学习资源](https://github.com/ipader/SwiftGuide){:target="_blank"}{:target=“_blank"}
-- [R.swift 资源文件](https://github.com/mac-cain13/R.swift"R.swift"){:target="_blank"} 具体 [安装教程](http://www.jianshu.com/p/0cbea714693d){:target="_blank"}
-- [Hakuba UITableview 管理](https://github.com/nghialv/Hakuba){:target="_blank"}
-- [swift-style-guide](https://github.com/raywenderlich/swift-style-guide){:target="_blank"}
-- [swift2.0_PlaygroundStudyNote](https://github.com/colourful987/swift2.0_PlaygroundStudyNote){:target="_blank"}
-- [Kingfisher 图片下载](https://github.com/onevcat/Kingfisher){:target="_blank"}
-- [JSONNeverDie json转换](https://github.com/johnlui/JSONNeverDie){:target="_blank"}
-- [SnapKit 自动布局](https://github.com/SnapKit/SnapKit){:target="_blank"}
-- [awesome-swift](https://github.com/matteocrippa/awesome-swift){:target="_blank"}
-- [PromiseKit](https://github.com/mxcl/PromiseKit){:target="_blank"}
-- [HanekeSwift 轻量级缓存](https://github.com/Haneke/HanekeSwift){:target="_blank"}
-- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON){:target="_blank"}
-- [Surge 数学库](https://github.com/mattt/Surge){:target="_blank"}
-- [BWWalkthrough ](https://github.com/ariok/BWWalkthrough){:target="_blank"}
-- [Alamofire](https://github.com/Alamofire/Alamofire){:target="_blank"}
-- [PureLayout](https://github.com/PureLayout/PureLayout){:target="_blank"}
-- [糗事百科swift](https://github.com/YANGReal/JokeClient-Swift){:target="_blank"}
-- [ Swift 教程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese){:target="_blank"}
-- [Swift-Tutorial](https://github.com/jquave/Swift-Tutorial){:target="_blank"}
-- [swift](https://github.com/apple/swift){:target="_blank"}
-- [SwiftFoundation](https://github.com/PureSwift/SwiftFoundation){:target="_blank"}
+- [SwiftGuide Swift语言主流学习资源](https://github.com/ipader/SwiftGuide){:target=“_blank"}
+- [R.swift 资源文件](https://github.com/mac-cain13/R.swift"R.swift") 具体 [安装教程](http://www.jianshu.com/p/0cbea714693d)
+- [Hakuba UITableview 管理](https://github.com/nghialv/Hakuba)
+- [swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
+- [swift2.0_PlaygroundStudyNote](https://github.com/colourful987/swift2.0_PlaygroundStudyNote)
+- [Kingfisher 图片下载](https://github.com/onevcat/Kingfisher)
+- [JSONNeverDie json转换](https://github.com/johnlui/JSONNeverDie)
+- [SnapKit 自动布局](https://github.com/SnapKit/SnapKit)
+- [awesome-swift](https://github.com/matteocrippa/awesome-swift)
+- [PromiseKit](https://github.com/mxcl/PromiseKit)
+- [HanekeSwift 轻量级缓存](https://github.com/Haneke/HanekeSwift)
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+- [Surge 数学库](https://github.com/mattt/Surge)
+- [BWWalkthrough ](https://github.com/ariok/BWWalkthrough)
+- [Alamofire](https://github.com/Alamofire/Alamofire)
+- [PureLayout](https://github.com/PureLayout/PureLayout)
+- [糗事百科swift](https://github.com/YANGReal/JokeClient-Swift)
+- [ Swift 教程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
+- [Swift-Tutorial](https://github.com/jquave/Swift-Tutorial)
+- [swift](https://github.com/apple/swift)
+- [SwiftFoundation](https://github.com/PureSwift/SwiftFoundation)
 
 ## Objective-c
 
-- [SuperLogger NSLog发送](https://github.com/yourtion/SuperLogger){:target="_blank"}
-- [CYLTabBarController]( https://github.com/ChenYilong/CYLTabBarController){:target="_blank"}
-- [iOS 二维码扫描控件](https://github.com/zhengjinghua/MQRCodeReaderViewController){:target="_blank"}
-- [iOS开发的学习](https://github.com/zekunyan/iOS-Tasks){:target="_blank"}
-- [TYAlertController 弹出框](https://github.com/12207480/TYAlertController){:target="_blank"}
-- [TYAttributedLabel 富文本](https://github.com/12207480/TYAttributedLabel){:target="_blank"}
-- [MLSelectPhoto 图片选择库](https://github.com/MakeZL/MLSelectPhoto){:target="_blank"}
-- [IQKeyboardManager 键盘管理](https://github.com/hackiftekhar/IQKeyboardManager){:target="_blank"}
-- [hinklion/news 网易客户端](https://github.com/Thinklion/news){:target="_blank"}
-- [TimLiu-iOS ios开源库](https://github.com/Tim9Liu9/TimLiu-iOS){:target="_blank"}
-- [iOS各种知识点学习](https://github.com/huang303513/iOS-Study-Demo){:target="_blank"}
-- [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge){:target="_blank"}
-- [shadowsocks-iOS](https://github.com/dguhl/shadowsocks-iOS){:target="_blank"}
-- [ZTPageController 网易新闻菜单](https://github.com/IOStao/ZTPageController){:target="_blank"}
-- [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell){:target="_blank"}
-- [Hydro.network](https://github.com/CatchChat/Hydro.network){:target="_blank"}
-- [SnapKit/Masonry 自动布局](https://github.com/SnapKit/Masonry){:target="_blank"}
-- [MarkdownTextView](https://github.com/indragiek/MarkdownTextView){:target="_blank"}
-- [DKNightVersion 主题切换](https://github.com/Draveness/DKNightVersion){:target="_blank"}
-- [UITableView-FDTemplateLayoutCell 高度自适应cell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell){:target="_blank"}
-- [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker){:target="_blank"}
-- [SDCycleScrollView 无限循环图片轮播器](https://github.com/gsdios/SDCycleScrollView){:target="_blank"}
-- [RFJModel](https://github.com/refusebt/RFJModel){:target="_blank"}
-- [ZipArchive](https://github.com/mattconnolly/ZipArchive){:target="_blank"}
-- [PNChart](https://github.com/kevinzhow/PNChart){:target="_blank"}
-- [Tweet4China2](https://github.com/cute/Tweet4China2){:target="_blank"}
-- [YTKNetwork 猿题库 AFNetworking 封装](https://github.com/yuantiku/YTKNetwork){:target="_blank"}
-- [CNPPopupController 弹出](https://github.com/carsonperrotti/CNPPopupController){:target="_blank"}
-- [XLForm ](https://github.com/xmartlabs/XLForm){:target="_blank"}
-- [NewsFourApp 高仿网易4.0新UI框架的Demo](https://github.com/chenqihui/NewsFourApp){:target="_blank"}
-- [timeLineiOS 时间线](https://github.com/romaHerman/timeLineiOS){:target="_blank"}
-- [popping 动画合集](https://github.com/schneiderandre/popping){:target="_blank"}
-- [JMAnimatedImageView](https://github.com/leverdeterre/JMAnimatedImageView){:target="_blank"}
-- [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day){:target="_blank"}
-- [MZFormSheetController](https://github.com/m1entus/MZFormSheetController){:target="_blank"}
-- [mojo-database ActiveRecord-like ORM](https://github.com/mojotech/mojo-database){:target="_blank"}
-- [OTWebImage](https://github.com/OpenFibers/OTWebImage){:target="_blank"}
-- [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN){:target="_blank"}
-- [BTSimpleSideMenu](https://github.com/balram3429/BTSimpleSideMenu){:target="_blank"}
-- [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser){:target="_blank"}
-- [CMPopTipView 泡泡风格的提示框开源控件](https://github.com/chrismiles/CMPopTipView){:target="_blank"}
-- [Toast](https://github.com/scalessec/Toast){:target="_blank"}
-- [CRToast](https://github.com/cruffenach/CRToast){:target="_blank"}
-- [DTCoreText 富文本](https://github.com/Cocoanetics/DTCoreText){:target="_blank"}
-- [SegmentFault 客户端](https://github.com/gaosboy/iOSSF){:target="_blank"}
-- [CustomUICollectionViewLayout](https://github.com/AshbelJhuang0331/CustomUICollectionViewLayout){:target="_blank"}
-- [MJRefresh](https://github.com/CoderMJLee/MJRefresh){:target="_blank"}
-- [FCFileManager](https://github.com/fabiocaccamo/FCFileManager){:target="_blank"}
-- [AFSQLManager 数据库](https://github.com/AlvaroFranco/AFSQLManager){:target="_blank"}
-- [Cocoa 加密](https://github.com/kelp404/CocoaSecurity){:target="_blank"}
-- [SDWebImage-Category](https://github.com/li6185377/SDWebImage-Category){:target="_blank"}
-- [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout){:target="_blank"}
-- [FMDBMigrationManager](https://github.com/layerhq/FMDBMigrationManager){:target="_blank"}
-- [SWTableViewCell 滑动](https://github.com/CEWendel/SWTableViewCell){:target="_blank"}
-- [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite){:target="_blank"}
-- [MBProgressHUD](https://github.com/jdg/MBProgressHUD){:target="_blank"}
-- [UAProgressView](https://github.com/UrbanApps/UAProgressView){:target="_blank"}
-- [MMPCoreDataHelper](https://github.com/mpurbo/MMPCoreDataHelper){:target="_blank"}
-- [dev-blog](https://github.com/nixzhu/dev-blog){:target="_blank"}
-- [UIAlert-Blocks](https://github.com/Bogdan-Stasjuk/UIAlert-Blocks){:target="_blank"}
-- [AHKActionSheet](https://github.com/fastred/AHKActionSheet){:target="_blank"}
-- [DTStorage](https://github.com/diogot/DTStorage){:target="_blank"}
-- [APRoundedButton](https://github.com/elpsk/APRoundedButton){:target="_blank"}
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking){:target="_blank"}
-- [MKNetworkKit](https://github.com/MugunthKumar/MKNetworkKit){:target="_blank"}
-- [Reachability](https://github.com/tonymillion/Reachability){:target="_blank"}
-- [phphub-ios](https://github.com/Aufree/phphub-ios){:target="_blank"}
-- [VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo){:target="_blank"}
-- [LLBootstrapButton](https://github.com/lilei644/LLBootstrapButton){:target="_blank"}
+- [SuperLogger NSLog发送](https://github.com/yourtion/SuperLogger)
+- [CYLTabBarController]( https://github.com/ChenYilong/CYLTabBarController)
+- [iOS 二维码扫描控件](https://github.com/zhengjinghua/MQRCodeReaderViewController)
+- [iOS开发的学习](https://github.com/zekunyan/iOS-Tasks)
+- [TYAlertController 弹出框](https://github.com/12207480/TYAlertController)
+- [TYAttributedLabel 富文本](https://github.com/12207480/TYAttributedLabel)
+- [MLSelectPhoto 图片选择库](https://github.com/MakeZL/MLSelectPhoto)
+- [IQKeyboardManager 键盘管理](https://github.com/hackiftekhar/IQKeyboardManager)
+- [hinklion/news 网易客户端](https://github.com/Thinklion/news)
+- [TimLiu-iOS ios开源库](https://github.com/Tim9Liu9/TimLiu-iOS)
+- [iOS各种知识点学习](https://github.com/huang303513/iOS-Study-Demo)
+- [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)
+- [shadowsocks-iOS](https://github.com/dguhl/shadowsocks-iOS)
+- [ZTPageController 网易新闻菜单](https://github.com/IOStao/ZTPageController)
+- [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)
+- [Hydro.network](https://github.com/CatchChat/Hydro.network)
+- [SnapKit/Masonry 自动布局](https://github.com/SnapKit/Masonry)
+- [MarkdownTextView](https://github.com/indragiek/MarkdownTextView)
+- [DKNightVersion 主题切换](https://github.com/Draveness/DKNightVersion)
+- [UITableView-FDTemplateLayoutCell 高度自适应cell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
+- [DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker)
+- [SDCycleScrollView 无限循环图片轮播器](https://github.com/gsdios/SDCycleScrollView)
+- [RFJModel](https://github.com/refusebt/RFJModel)
+- [ZipArchive](https://github.com/mattconnolly/ZipArchive)
+- [PNChart](https://github.com/kevinzhow/PNChart)
+- [Tweet4China2](https://github.com/cute/Tweet4China2)
+- [YTKNetwork 猿题库 AFNetworking 封装](https://github.com/yuantiku/YTKNetwork)
+- [CNPPopupController 弹出](https://github.com/carsonperrotti/CNPPopupController)
+- [XLForm ](https://github.com/xmartlabs/XLForm)
+- [NewsFourApp 高仿网易4.0新UI框架的Demo](https://github.com/chenqihui/NewsFourApp)
+- [timeLineiOS 时间线](https://github.com/romaHerman/timeLineiOS)
+- [popping 动画合集](https://github.com/schneiderandre/popping)
+- [JMAnimatedImageView](https://github.com/leverdeterre/JMAnimatedImageView)
+- [iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day)
+- [MZFormSheetController](https://github.com/m1entus/MZFormSheetController)
+- [mojo-database ActiveRecord-like ORM](https://github.com/mojotech/mojo-database)
+- [OTWebImage](https://github.com/OpenFibers/OTWebImage)
+- [中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN)
+- [BTSimpleSideMenu](https://github.com/balram3429/BTSimpleSideMenu)
+- [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
+- [CMPopTipView 泡泡风格的提示框开源控件](https://github.com/chrismiles/CMPopTipView)
+- [Toast](https://github.com/scalessec/Toast)
+- [CRToast](https://github.com/cruffenach/CRToast)
+- [DTCoreText 富文本](https://github.com/Cocoanetics/DTCoreText)
+- [SegmentFault 客户端](https://github.com/gaosboy/iOSSF)
+- [CustomUICollectionViewLayout](https://github.com/AshbelJhuang0331/CustomUICollectionViewLayout)
+- [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
+- [FCFileManager](https://github.com/fabiocaccamo/FCFileManager)
+- [AFSQLManager 数据库](https://github.com/AlvaroFranco/AFSQLManager)
+- [Cocoa 加密](https://github.com/kelp404/CocoaSecurity)
+- [SDWebImage-Category](https://github.com/li6185377/SDWebImage-Category)
+- [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout)
+- [FMDBMigrationManager](https://github.com/layerhq/FMDBMigrationManager)
+- [SWTableViewCell 滑动](https://github.com/CEWendel/SWTableViewCell)
+- [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)
+- [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+- [UAProgressView](https://github.com/UrbanApps/UAProgressView)
+- [MMPCoreDataHelper](https://github.com/mpurbo/MMPCoreDataHelper)
+- [dev-blog](https://github.com/nixzhu/dev-blog)
+- [UIAlert-Blocks](https://github.com/Bogdan-Stasjuk/UIAlert-Blocks)
+- [AHKActionSheet](https://github.com/fastred/AHKActionSheet)
+- [DTStorage](https://github.com/diogot/DTStorage)
+- [APRoundedButton](https://github.com/elpsk/APRoundedButton)
+- [AFNetworking](https://github.com/AFNetworking/AFNetworking)
+- [MKNetworkKit](https://github.com/MugunthKumar/MKNetworkKit)
+- [Reachability](https://github.com/tonymillion/Reachability)
+- [phphub-ios](https://github.com/Aufree/phphub-ios)
+- [VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo)
+- [LLBootstrapButton](https://github.com/lilei644/LLBootstrapButton)
 
 
 
 # Android
 
-- [ShortcutLib 桌面快捷方式](https://github.com/xuyisheng/ShortcutHelper){:target="_blank"}
-- [KAndroid是一个Android的简单的架构搭建的学习项目](https://github.com/keeganlee/kandroid){:target="_blank"}
-- [AndroidAutoLayout Android屏幕适配方案](https://github.com/hongyangAndroid/AndroidAutoLayout){:target="_blank"}
-- [BlurImageView 图像模糊](https://github.com/wingjay/BlurImageView){:target="_blank"}
-- [HeaderAndFooterRecyclerView 分页加载]( https://github.com/cundong/HeaderAndFooterRecyclerView){:target="_blank"}
-- [Search-View-Layout](https://github.com/sahildave/Search-View-Layout){:target="_blank"}
-- [RichText 富文本](https://github.com/zzhoujay/RichText){:target="_blank"}
-- [Android-Tips](https://github.com/tangqi92/Android-Tips){:target="_blank"}
-- [BeautifulRefreshLayout 下拉刷新](https://github.com/android-cjj/BeautifulRefreshLayout){:target="_blank"}
-- [onekey-decompile-apk 一键反编译](https://github.com/ufologist/onekey-decompile-apk){:target="_blank"}
-- [barcodescanner 二维码扫描](https://github.com/dm77/barcodescanner){:target="_blank"}
-- [Android-PullToRefresh-SwipeMenuListView-Sample 下拉和侧滑](https://github.com/licaomeng/Android-PullToRefresh-SwipeMenuListView-Sample){:target="_blank"}
-- [android-pull-to-refresh 下拉刷新](https://github.com/naver/android-pull-to-refresh){:target="_blank"}
-- [pulltorefresh-aar 下拉刷新](https://github.com/Dahlgren/pulltorefresh-aar){:target="_blank"}
-- [BGARefreshLayout-Android 下拉刷新](https://github.com/bingoogolapple/BGARefreshLayout-Android){:target="_blank"}
-- [CircleImageView 圆角图片](https://github.com/hdodenhof/CircleImageView){:target="_blank"}
-- [PagerSlidingTabStrip 滑动标签](https://github.com/jpardogo/PagerSlidingTabStrip){:target="_blank"}
-- [Android官方技术文档翻译](https://github.com/rujews/android-tech-docs){:target="_blank"}
-- [Nice Spinner 下拉选择](https://github.com/arcadefire/nice-spinner){:target="_blank"}
-- [KJ音乐项目](https://github.com/wang9090980/KJMusic){:target="_blank"}
-- [SAF(Simple Android Framework){:target="_blank"}是一个简单的android框架](https://github.com/fengzhizi715/SAF){:target="_blank"}
-- [XRefreshView 下拉刷新](https://github.com/huxq17/XRefreshView){:target="_blank"}
-- [UltimateAndroid框架](https://github.com/cymcsg/UltimateAndroid){:target="_blank"}
-- [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh){:target="_blank"}
-- [Android-Next](https://github.com/mcxiaoke/Android-Next){:target="_blank"}
-- [AndroidDevTools 开发工具](https://github.com/inferjay/AndroidDevTools){:target="_blank"}
-- [android-percent-support-lib-sample](https://github.com/JulienGenoud/android-percent-support-lib-sample){:target="_blank"}
-- [jadx dex to java 反编译 ](https://github.com/skylot/jadx){:target="_blank"}
-- [UltimateRecyclerView 滑动列表](https://github.com/cymcsg/UltimateRecyclerView){:target="_blank"}
-- [AndroidScreenSlidePager 屏幕滑动](https://github.com/LyndonChin/AndroidScreenSlidePager){:target="_blank"}
-- [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier){:target="_blank"}
-- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart){:target="_blank"}
-- [Android-ImageMagick](https://github.com/lilac/Android-ImageMagick){:target="_blank"}
-- [android-resources](https://github.com/Tikitoo/android-resources){:target="_blank"}
-- [Tweetin 客户端](https://github.com/mthli/Tweetin){:target="_blank"}
-- [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip){:target="_blank"}
-- [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase){:target="_blank"}
-- [MaterialEditText](https://github.com/rengwuxian/MaterialEditText){:target="_blank"}
-- [RippleEffect 点击效果](https://github.com/traex/RippleEffect){:target="_blank"}
-- [android-dev-com 国外开发者](https://github.com/android-cn/android-dev-com){:target="_blank"}
-- [android-dev-cn 国内开发者](https://github.com/android-cn/android-dev-cn){:target="_blank"}
-- [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap){:target="_blank"}
-- [dynamic-load-apk Apk动态加载框架](https://github.com/singwhatiwanna/dynamic-load-apk){:target="_blank"}
-- [AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader){:target="_blank"}
-- [Android-Week-View](https://github.com/alamkanak/Android-Week-View){:target="_blank"}
-- [android-ActionSheet](https://github.com/baoyongzhang/android-ActionSheet){:target="_blank"}
-- [EventBus](https://github.com/greenrobot/EventBus){:target="_blank"}
-- [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout){:target="_blank"}
-- [tess-two 图文识别](https://github.com/rmtheis/tess-two){:target="_blank"}
-- [ExpandablePanel](https://github.com/JorgeCastilloPrz/ExpandablePanel){:target="_blank"}
-- [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider){:target="_blank"}
-- [Advanced-QR-Code-reader](https://github.com/martin-kubik/Advanced-QR-Code-reader){:target="_blank"}
-- [xUtils3](https://github.com/wyouflf/xUtils3){:target="_blank"}
-- [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis){:target="_blank"}
-- [StaggeredGridViewDemo](https://github.com/maurycyw/StaggeredGridViewDemo){:target="_blank"}
-- [AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu){:target="_blank"}
-- [android-process-button](https://github.com/dmytrodanylyk/android-process-button){:target="_blank"}
-- [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project){:target="_blank"}
-- [V2EX unofficial App](https://github.com/jackrex/V2EX){:target="_blank"}
-- [android-async-http-with-caching](https://github.com/yiki-ecnavi/android-async-http-with-caching){:target="_blank"}
-- [jsoup html解析](https://github.com/jhy/jsoup){:target="_blank"}
-- [butterknife](https://github.com/JakeWharton/butterknife){:target="_blank"}
-- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu){:target="_blank"}
-- [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader){:target="_blank"}
-- [android-async-http](https://github.com/loopj/android-async-http){:target="_blank"}
-- [xUtils3](https://github.com/wyouflf/xUtils3){:target="_blank"}
+- [ShortcutLib 桌面快捷方式](https://github.com/xuyisheng/ShortcutHelper)
+- [KAndroid是一个Android的简单的架构搭建的学习项目](https://github.com/keeganlee/kandroid)
+- [AndroidAutoLayout Android屏幕适配方案](https://github.com/hongyangAndroid/AndroidAutoLayout)
+- [BlurImageView 图像模糊](https://github.com/wingjay/BlurImageView)
+- [HeaderAndFooterRecyclerView 分页加载]( https://github.com/cundong/HeaderAndFooterRecyclerView)
+- [Search-View-Layout](https://github.com/sahildave/Search-View-Layout)
+- [RichText 富文本](https://github.com/zzhoujay/RichText)
+- [Android-Tips](https://github.com/tangqi92/Android-Tips)
+- [BeautifulRefreshLayout 下拉刷新](https://github.com/android-cjj/BeautifulRefreshLayout)
+- [onekey-decompile-apk 一键反编译](https://github.com/ufologist/onekey-decompile-apk)
+- [barcodescanner 二维码扫描](https://github.com/dm77/barcodescanner)
+- [Android-PullToRefresh-SwipeMenuListView-Sample 下拉和侧滑](https://github.com/licaomeng/Android-PullToRefresh-SwipeMenuListView-Sample)
+- [android-pull-to-refresh 下拉刷新](https://github.com/naver/android-pull-to-refresh)
+- [pulltorefresh-aar 下拉刷新](https://github.com/Dahlgren/pulltorefresh-aar)
+- [BGARefreshLayout-Android 下拉刷新](https://github.com/bingoogolapple/BGARefreshLayout-Android)
+- [CircleImageView 圆角图片](https://github.com/hdodenhof/CircleImageView)
+- [PagerSlidingTabStrip 滑动标签](https://github.com/jpardogo/PagerSlidingTabStrip)
+- [Android官方技术文档翻译](https://github.com/rujews/android-tech-docs)
+- [Nice Spinner 下拉选择](https://github.com/arcadefire/nice-spinner)
+- [KJ音乐项目](https://github.com/wang9090980/KJMusic)
+- [SAF(Simple Android Framework)是一个简单的android框架](https://github.com/fengzhizi715/SAF)
+- [XRefreshView 下拉刷新](https://github.com/huxq17/XRefreshView)
+- [UltimateAndroid框架](https://github.com/cymcsg/UltimateAndroid)
+- [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
+- [Android-Next](https://github.com/mcxiaoke/Android-Next)
+- [AndroidDevTools 开发工具](https://github.com/inferjay/AndroidDevTools)
+- [android-percent-support-lib-sample](https://github.com/JulienGenoud/android-percent-support-lib-sample)
+- [jadx dex to java 反编译 ](https://github.com/skylot/jadx)
+- [UltimateRecyclerView 滑动列表](https://github.com/cymcsg/UltimateRecyclerView)
+- [AndroidScreenSlidePager 屏幕滑动](https://github.com/LyndonChin/AndroidScreenSlidePager)
+- [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier)
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+- [Android-ImageMagick](https://github.com/lilac/Android-ImageMagick)
+- [android-resources](https://github.com/Tikitoo/android-resources)
+- [Tweetin 客户端](https://github.com/mthli/Tweetin)
+- [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)
+- [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)
+- [MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
+- [RippleEffect 点击效果](https://github.com/traex/RippleEffect)
+- [android-dev-com 国外开发者](https://github.com/android-cn/android-dev-com)
+- [android-dev-cn 国内开发者](https://github.com/android-cn/android-dev-cn)
+- [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)
+- [dynamic-load-apk Apk动态加载框架](https://github.com/singwhatiwanna/dynamic-load-apk)
+- [AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader)
+- [Android-Week-View](https://github.com/alamkanak/Android-Week-View)
+- [android-ActionSheet](https://github.com/baoyongzhang/android-ActionSheet)
+- [EventBus](https://github.com/greenrobot/EventBus)
+- [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
+- [tess-two 图文识别](https://github.com/rmtheis/tess-two)
+- [ExpandablePanel](https://github.com/JorgeCastilloPrz/ExpandablePanel)
+- [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
+- [Advanced-QR-Code-reader](https://github.com/martin-kubik/Advanced-QR-Code-reader)
+- [xUtils3](https://github.com/wyouflf/xUtils3)
+- [Android 开源项目源码解析](https://github.com/android-cn/android-open-project-analysis)
+- [StaggeredGridViewDemo](https://github.com/maurycyw/StaggeredGridViewDemo)
+- [AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu)
+- [android-process-button](https://github.com/dmytrodanylyk/android-process-button)
+- [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project)
+- [V2EX unofficial App](https://github.com/jackrex/V2EX)
+- [android-async-http-with-caching](https://github.com/yiki-ecnavi/android-async-http-with-caching)
+- [jsoup html解析](https://github.com/jhy/jsoup)
+- [butterknife](https://github.com/JakeWharton/butterknife)
+- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
+- [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+- [android-async-http](https://github.com/loopj/android-async-http)
+- [xUtils3](https://github.com/wyouflf/xUtils3)
 
 # 其他
 
-- [字典](https://github.com/821/Acorns){:target="_blank"}
-- [boltons](https://github.com/mahmoud/boltons){:target="_blank"}
-- [chnroutes](https://github.com/fivesheep/chnroutes){:target="_blank"}
-- [weixin-java-tools](https://github.com/chanjarster/weixin-java-tools){:target="_blank"}
-- [django-xadmin](https://github.com/sshwsfc/django-xadmin){:target="_blank"}
-- [DevArticles](https://github.com/sxyx2008/DevArticles/issues?page=1&q=is%3Aissue+is%3Aopen){:target="_blank"}
-- [AdminLTE](https://github.com/almasaeed2010/AdminLTE){:target="_blank"}
-- [html5 拓扑图编辑器](https://github.com/samsha/graph.editor){:target="_blank"}
-- [GWFList](https://github.com/Leask/BRICKS){:target="_blank"}
-- [snownlp python 中文分词](https://github.com/isnowfy/snownlp){:target="_blank"}
-- [padrino-framework](https://github.com/padrino/padrino-framework){:target="_blank"}
-- [ngx_http_google_filter_module](https://github.com/cuber/ngx_http_google_filter_module){:target="_blank"}
-- [jQuery-File-Upload 文件上传](https://github.com/blueimp/jQuery-File-Upload){:target="_blank"}
-- [bootstrap-application-wizard](https://github.com/amoffat/bootstrap-application-wizard){:target="_blank"}
-- [Bootstrap-Wizard](https://github.com/gilluminate/Bootstrap-Wizard){:target="_blank"}
-- [chinese-lunar-calendar-for-mac](https://github.com/zfdang/chinese-lunar-calendar-for-mac){:target="_blank"}
-- [ResumeSample](https://github.com/geekcompany/ResumeSample){:target="_blank"}
-- [flatland sublimeText主题](https://github.com/thinkpixellab/flatland){:target="_blank"}
-- [Tordrop web服务器](https://github.com/tuckerwales/Tordrop){:target="_blank"}
-- [GCDWebServer](https://github.com/swisspol/GCDWebServer){:target="_blank"}
-- [Best-App](https://github.com/hzlzh/Best-App){:target="_blank"}
-- [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July){:target="_blank"}
-- [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer){:target="_blank"}
-- [bootstrap-admin](https://github.com/aristath/bootstrap-admin){:target="_blank"}
-- [Angular系列](https://github.com/xufei/blog){:target="_blank"}
+- [字典](https://github.com/821/Acorns)
+- [boltons](https://github.com/mahmoud/boltons)
+- [chnroutes](https://github.com/fivesheep/chnroutes)
+- [weixin-java-tools](https://github.com/chanjarster/weixin-java-tools)
+- [django-xadmin](https://github.com/sshwsfc/django-xadmin)
+- [DevArticles](https://github.com/sxyx2008/DevArticles/issues?page=1&q=is%3Aissue+is%3Aopen)
+- [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
+- [html5 拓扑图编辑器](https://github.com/samsha/graph.editor)
+- [GWFList](https://github.com/Leask/BRICKS)
+- [snownlp python 中文分词](https://github.com/isnowfy/snownlp)
+- [padrino-framework](https://github.com/padrino/padrino-framework)
+- [ngx_http_google_filter_module](https://github.com/cuber/ngx_http_google_filter_module)
+- [jQuery-File-Upload 文件上传](https://github.com/blueimp/jQuery-File-Upload)
+- [bootstrap-application-wizard](https://github.com/amoffat/bootstrap-application-wizard)
+- [Bootstrap-Wizard](https://github.com/gilluminate/Bootstrap-Wizard)
+- [chinese-lunar-calendar-for-mac](https://github.com/zfdang/chinese-lunar-calendar-for-mac)
+- [ResumeSample](https://github.com/geekcompany/ResumeSample)
+- [flatland sublimeText主题](https://github.com/thinkpixellab/flatland)
+- [Tordrop web服务器](https://github.com/tuckerwales/Tordrop)
+- [GCDWebServer](https://github.com/swisspol/GCDWebServer)
+- [Best-App](https://github.com/hzlzh/Best-App)
+- [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+- [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer)
+- [bootstrap-admin](https://github.com/aristath/bootstrap-admin)
+- [Angular系列](https://github.com/xufei/blog)
