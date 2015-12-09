@@ -1,0 +1,2 @@
+# myStar
+star category
