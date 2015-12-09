@@ -9,7 +9,7 @@
 
 ## Swift
 
-- [SwiftGuide Swift语言主流学习资源](https://github.com/ipader/SwiftGuide){:target=“_blank"}
+- [SwiftGuide Swift语言主流学习资源](https://github.com/ipader/SwiftGuide)
 - [R.swift 资源文件](https://github.com/mac-cain13/R.swift"R.swift") 具体 [安装教程](http://www.jianshu.com/p/0cbea714693d)
 - [Hakuba UITableview 管理](https://github.com/nghialv/Hakuba)
 - [swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
