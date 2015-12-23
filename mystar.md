@@ -6,6 +6,7 @@
 * [iOS 学习资料整理](https://github.com/Aufree/trip-to-iOS)
 * [WWDC-2014-Subtitle](https://github.com/walkingway/WWDC-2014-Subtitle)
 * [WWDCDownloader](https://github.com/aglee/WWDCDownloader)
+* [ios](http://ios.skyfox.org/route.html)
 
 ## Swift
 
@@ -32,6 +33,8 @@
 * [swift](https://github.com/apple/swift)
 * [SwiftFoundation](https://github.com/PureSwift/SwiftFoundation)
 * [beautifulApp 最美app](https://github.com/lyimin/beautifulApp)
+* [知乎日报](https://github.com/zpz1237/NirZhihuDaily2.0)
+* [国外收藏swift库](http://www.ioscookies.com/)
 
 ## Objective-c
 * [SuperLogger NSLog发送](https://github.com/yourtion/SuperLogger)
