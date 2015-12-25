@@ -35,6 +35,7 @@
 * [beautifulApp 最美app](https://github.com/lyimin/beautifulApp)
 * [知乎日报](https://github.com/zpz1237/NirZhihuDaily2.0)
 * [国外收藏swift库](http://www.ioscookies.com/)
+* [Programming iOS9 翻译](http://wdxtub.com/2015/12/22/programming-ios9-translation-1/)
 
 ## Objective-c
 * [SuperLogger NSLog发送](https://github.com/yourtion/SuperLogger)
